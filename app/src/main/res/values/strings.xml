@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FocusPause</string>
+    <string name="mode_focus">ENFOQUE</string>
+    <string name="mode_short_break">PAUSA CORTA</string>
+    <string name="mode_long_break">PAUSA LARGA</string>
+    <string name="action_start">Iniciar</string>
+    <string name="action_pause">Pausar</string>
+    <string name="action_skip">Siguiente</string>
+    <string name="action_reset">Reiniciar</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="focus_duration">Duración Enfoque</string>
+    <string name="break_duration">Duración Pausa</string>
+</resources>

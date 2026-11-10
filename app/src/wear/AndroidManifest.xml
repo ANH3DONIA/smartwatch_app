@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Variante para reloj: Android Studio solo lanza en Wear OS si esto es required="true". -->
+    <uses-feature
+        android:name="android.hardware.type.watch"
+        android:required="true"
+        tools:replace="android:required" />
+
+</manifest>
